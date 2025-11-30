@@ -20,15 +20,16 @@ A comprehensive data analysis project exploring customer shopping patterns using
 ```
 Customer-Shopping-Behavior/
 ├── Data/
-│   └── customer_shopping_behavior.csv
+│ └── customer_shopping_behavior.csv
 ├── Notebook/
-│   └── Customer_Shopping_Behavior_Analysis.ipynb
+│ └── Customer_Shopping_Behavior_Analysis.ipynb
 ├── SQL/
-│   └── Customer_Behavior_SQL_Queries.sql
+│ └── Customer_Behavior_SQL_Queries.sql
 ├── Power BI/
-│   └── Customer_Behavior_Dashboard.pbix
+│ └── Customer_Behavior_Dashboard.pbix
 ├── Reports/
-│   └── presentation.pdf
+│ ├── Customer Shopping Behavior Analysis.pdf
+│ └── Customer-Shopping-Behavior-Analysis.pptx
 └── README.md
 ```
 
@@ -95,9 +96,3 @@ Customer-Shopping-Behavior/
 ---
 
 **👨‍💻 Author: Tushar Ahlawat**  
-
-
-
-```
-
-**Kya aapko ye README pasand aaya?** 😊
